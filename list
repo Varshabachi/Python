@@ -1,0 +1,11 @@
+n=int(input())
+l=[]
+for i in range(n):
+          l.append(int(input()))
+c=min(l)
+d=max(l)
+e=sum(l)
+f=6/n
+print(c,d,f)
+
+
