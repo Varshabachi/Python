@@ -5,7 +5,7 @@ for i in range(n):
 c=min(l)
 d=max(l)
 e=sum(l)
-f=6/n
+f=e/n
 print(c,d,f)
 
 
